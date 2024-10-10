@@ -93,7 +93,7 @@ MACHINE = "<target_machine_name>"
 * For list of available target machines see meta layer README files.
 
  * [meta-xilinx-bsp README](https://github.com/Xilinx/meta-xilinx/tree/master/meta-xilinx-bsp#amd-xilinx-evaluation-boards-bsp-machines-files)
- * [meta-kria README](https://github.com/Xilinx/meta-xilinx/tree/master/meta-xilinx-bsp#amd-xilinx-evaluation-boards-bsp-machines-files)
+ * [meta-kria README](https://github.com/Xilinx/meta-kria/blob/master/README.md#amd-xilinx-kria-som-and-evaluation-starter-kits-bsp-machines-files)
 
 8. For NFS build host system modify the build/conf/local.conf and add TMPDIR
    path as shown below. On local storage $TMPDIR will be set to build/tmp
